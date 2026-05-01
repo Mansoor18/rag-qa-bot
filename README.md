@@ -1,5 +1,5 @@
 ## 🚀 Live Demo
-
+https://rag-app-bot-dyimw4fiqwmw5x6stqem8b.streamlit.app/
 # RAG-based Document Q&A Bot
 
 Retrieval-Augmented Generation system for intelligent document querying.
