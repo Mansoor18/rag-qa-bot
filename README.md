@@ -1,3 +1,5 @@
+## 🚀 Live Demo
+
 # RAG-based Document Q&A Bot
 
 Retrieval-Augmented Generation system for intelligent document querying.
